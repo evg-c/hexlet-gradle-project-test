@@ -5,6 +5,7 @@
 build
 
 .gradle/
+gradle/
 build/
 caches/
 .idea/
